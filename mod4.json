@@ -1,0 +1,35 @@
+{
+    "weirdItems": [
+      {
+        "name": "Dog Dryer",
+        "price" : 39.95,
+        "details": "Having a dog dry itself off all over your living room post-bath is rarely ideal. Fortunately, there's a bizarre blow-dryer suit out there that can help keep your pup from dripping all over the house.",        
+        "image": "dog-dryer.jpg"
+      },
+      {
+        "name": "Pizza Hat",
+        "price" : 11.62,
+        "details": "Finally, you can indulge in everyone's life-long desire of wearing pizza atop their head. Beware the sprinkled parmesan as you nod or shake your head, though—some might mistake it for dandruff.",        
+        "image": "pizza-hat.jpg"
+      },
+      {
+        "name": "Baby Mop",
+        "price" : 29.99,
+        "details": "It's never too early to teach your children about chores, as evidenced by this suit that lets your baby mop the house for you.",        
+        "image": "baby-mop.jpg"
+      },
+      {
+        "name": "Fish Pencil Case",
+        "price" : 3.97,
+        "details": "Not every kid is eager to go to school with a Hello Kitty pencil case. Sometimes, you just want to stick your writing instruments into the belly of a very realistic-looking fish.",        
+        "image": "fish-pencil-case.jpg"
+      },
+      {
+        "name": "Nicolas Cage Pillow",
+        "price" : 24.95,
+        "details": "The only thing better than a festive red sparkly pillowcase is one that morphs into Nicolas Cage's face with the satisfying swipe of your hand.",        
+        "image": "nicolas-page-pillow.jpg"
+      }
+    ]
+  }
+  
