@@ -20,7 +20,7 @@ function getJSON(requestURL) {
 
 }
 
-getJSON('https://nicksantoscs.github.io/Weird-Items-Page/mod4.json')
+getJSON('https://nicksantoscs.github.io/Nicks-Nacks/mod4.json')
   .then(function (value) {
     weirdItems(value);
   })
