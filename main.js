@@ -43,7 +43,7 @@ function weirdItems(jsonObj) {
     let section = document.querySelector('section');
 
     //Set attribute for images
-    img.setAttribute('src', 'https://nicksantoscs.github.io/Weird-Items-Page/assets/' + weirdItems[i].image);
+    img.setAttribute('src', 'https://nicksantoscs.github.io/Nicks-Nacks/assets/' + weirdItems[i].image);
     img.setAttribute('alt', weirdItems[i].image);
 
     //Text content
