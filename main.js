@@ -1,3 +1,5 @@
+//Nicholas Santos; March 26, 2020
+
 function getJSON(requestURL) {
   let request = new XMLHttpRequest();
   return new Promise(function (resolve, reject) {
